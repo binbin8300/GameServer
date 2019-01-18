@@ -1,5 +1,5 @@
 #include <iostream>
-int main()
+int main(int args)
 {
 return 0;
 }
